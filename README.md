@@ -1,7 +1,7 @@
 # Cyber-Threat-Monitoring-Dashboard
 The project demonstrates a Threat Monitoring Dashboard to simulate the basic functionality of a Managed Detection and Response (MDR) platform.
 
-Here's a simple Proof of Concept (PoC) project you can build using Django and React that aligns with cybersecurity themes like those offered by Critical Start. The project demonstrates a **Threat Monitoring Dashboard** to simulate the basic functionality of a Managed Detection and Response (MDR) platform.
+Here's a simple Proof of Concept (PoC) project you can build using Django and React that aligns with cybersecurity theme. The project demonstrates a **Threat Monitoring Dashboard** to simulate the basic functionality of a Managed Detection and Response (MDR) platform.
 
 ---
 
