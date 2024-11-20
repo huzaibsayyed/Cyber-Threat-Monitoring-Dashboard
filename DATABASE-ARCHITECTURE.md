@@ -2,6 +2,8 @@
 
 ER Diagram - https://dbdiagram.io/d/673d28aae9daa85aca093c4d
 
+![Cyber Threat Monitoring Dashboard ER Diagram](er-diagram.png?raw=true "ER Diagram")
+
 ```
 // Users Table
 Table users {
