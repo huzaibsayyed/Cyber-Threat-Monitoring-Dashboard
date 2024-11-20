@@ -1,5 +1,7 @@
 # DBML (Database Markup Language)
 
+ER Diagram - https://dbdiagram.io/d/673d28aae9daa85aca093c4d
+
 ```
 // Users Table
 Table users {
